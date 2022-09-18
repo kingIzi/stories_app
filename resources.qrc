@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/config.json</file>
+        <file>qml/Main.qml</file>
+        <file>qml/SignInPage.qml</file>
+        <file>qml/SignUpPage.qml</file>
+        <file>qml/ValidatedField.qml</file>
+        <file>qml/HomeNavigation.qml</file>
+        <file>qml/HomePage.qml</file>
+        <file>qml/ProfilePage.qml</file>
+        <file>qml/AddVideo.qml</file>
+        <file>qml/FavoritesPage.qml</file>
+        <file>qml/StreamingPage.qml</file>
+        <file>qml/StreamingVideoDetails.qml</file>
+        <file>qml/UploadNewVideoDrawer.qml</file>
+        <file>qml/VideoDelegate.qml</file>
+        <file>qml/VideosListView.qml</file>
+        <file>qml/VideoPlayer.qml</file>
+        <file>qml/scripts.js</file>
+    </qresource>
+</RCC>
