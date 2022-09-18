@@ -44,8 +44,8 @@ QC2.ItemDelegate {
             Image{
                 anchors.fill: parent
                 fillMode: Image.PreserveAspectCrop
-                //source: _videoDelegateItem.thumbnail
-                source: "https://th.bing.com/th/id/R.e765f106ab6b237bb3487a399fd6c75d?rik=PAaSMqDX2Mweew&pid=ImgRaw&r=0"
+                source: _videoDelegateItem.thumbnail
+                //source: "https://th.bing.com/th/id/R.e765f106ab6b237bb3487a399fd6c75d?rik=PAaSMqDX2Mweew&pid=ImgRaw&r=0"
                 asynchronous: true
             }
             Felgo.Icon {

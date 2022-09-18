@@ -32,8 +32,8 @@ Item{
         id: video
         anchors.fill: parent
         visible: !_playIcon.visible
-        //source: _streamingPage.video
-        source: "file:///C:/Users/scott/OneDrive/Documents/Development/c++/kimpaVita.mp4"
+        source: _streamingPage.video
+        //source: "file:///C:/Users/scott/OneDrive/Documents/Development/c++/kimpaVita.mp4"
         focus: true
         autoPlay: true
         Keys.onSpacePressed: (video._isPlaying) ? video.pause() : video.play()
